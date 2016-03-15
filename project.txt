@@ -5,3 +5,4 @@ relase V 0.1
 emergency severe bug fix ESBug 001
 dev edition 1
 feature 1
+feature 2
